@@ -1,4 +1,4 @@
-# Dissertation_Appendices
+# Dissertation Appendices
 This Page contains Online Appendices for Papers in the Dissertation Project
 
 Namely for the Papers: 
